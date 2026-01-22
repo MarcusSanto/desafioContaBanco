@@ -6,7 +6,7 @@ public class interfaceUser {
 
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
-Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Bem-vindo ao Banco Java!");
         System.out.print("Digite seu nome: ");
